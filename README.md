@@ -14,8 +14,8 @@ Per modificarlo è necessario:
 
 6) accedere nuovamente alla pagina di questo progetto 
 7) creare un nuovo branch (istruzioni nel tutorial "Progetto Hello World") https://guides.github.com/activities/hello-world/
-8) modificare il proprio file (scrivendo dentro la breve descrizione del proprio progetto, la licenaza, e i nomi dei collaboratori)
+8) modificare il proprio file (scrivendo dentro la breve descrizione del proprio progetto, la licenza, e i nomi dei collaboratori)
 9) aggiungere il commento finale sul motivo della richiesta di modifica
 10) eseguire Pull Request (istruzioni nel tutorial "Progetto Hello World") https://guides.github.com/activities/hello-world/
 11) il prof. è owner ed eseguirà un Merge
-11) fine
+12) fine
