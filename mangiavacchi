@@ -3,3 +3,9 @@ Il sito è stato creato utilizzando il framework Angular.
 Le caratteristiche più interessanti sono: 
 - la possibilità di visualizzare il sito anche su smartphone
 - una pagina per la geolocalizzazione degli eventi/tour
+- velocità
+- assenza di ricaricamento delle pagine
+- animazioni di transizione tra le pagine del sito
+- lazy loading pattern
+Licenza Attribuzione - Condividi allo stesso modo 3.0 Italia (CC BY-SA 3.0 IT)
+Collaboratori: IO
