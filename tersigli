@@ -1,1 +1,3 @@
-modifica e cancella questa riga
+Il progetto consiste nel creare un dispositivo che acquisisca la posizione e la invii al server che mostra la posizione in tempo reale, e
+salva la posizione nel database, che sarà consultabile e vedere la distanza tra i due punti
+Collaboratori: Alessio Tersigli
